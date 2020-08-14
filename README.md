@@ -1,9 +1,34 @@
-# weather-app-kubernetes project
+# Distributed Weather App
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+Simple weather app application built with Quarkus and Kubernetes that uses OpenWeather API
+as a data source and Infinispan for distributed cache.
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+# Progress
+## Steps
+- [ ] Quarkus setup
+- [ ] React setup
+- [ ] Serve React frontend from Quarkus
+- [ ] Implement API using OpenWeatherAPI
+- [ ] Basic frontend
+- [ ] Kubernetes setup
+- [ ] Implement distributed cache with Infinispan
+- [ ] First release
+
+## Future work
+- [ ] Deploy to cloud
+- [ ] Create React Native app for mobile devices
+- [ ] Configure Swagger
+
+# API Documentation
+
+    TODO: Document the API
+
+# The application
+
+    TODO: Add screenshots
+
+# Usage
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
