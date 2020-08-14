@@ -4,8 +4,8 @@ Simple weather app application built with Quarkus and Kubernetes that uses OpenW
 as a data source and Infinispan for distributed cache.
 
 
-# Progress
-## Steps
+## Progress
+### Steps
 - [ ] Quarkus setup
 - [ ] React setup
 - [ ] Serve React frontend from Quarkus
@@ -15,28 +15,28 @@ as a data source and Infinispan for distributed cache.
 - [ ] Implement distributed cache with Infinispan
 - [ ] First release
 
-## Future work
+### Future work
 - [ ] Deploy to cloud
 - [ ] Create React Native app for mobile devices
 - [ ] Configure Swagger
 
-# API Documentation
+## API Documentation
 
     TODO: Document the API
 
-# The application
+## The application
 
     TODO: Add screenshots
 
-# Usage
-## Running the application in dev mode
+## Usage
+### Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
 ```
 ./mvnw quarkus:dev
 ```
 
-## Packaging and running the application
+### Packaging and running the application
 
 The application can be packaged using `./mvnw package`.
 It produces the `weather-app-kubernetes-1.0.0-SNAPSHOT-runner.jar` file in the `/target` directory.
@@ -44,7 +44,7 @@ Be aware that it’s not an _über-jar_ as the dependencies are copied into the 
 
 The application is now runnable using `java -jar target/weather-app-kubernetes-1.0.0-SNAPSHOT-runner.jar`.
 
-## Creating a native executable
+### Creating a native executable
 
 You can create a native executable using: `./mvnw package -Pnative`.
 
