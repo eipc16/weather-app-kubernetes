@@ -46,9 +46,21 @@ yarn-debug.log*
 yarn-error.log*
 
 # React project
-/src/main/webapp/weather-app/node_modules/
-/src/main/webapp/weather-app/yarn.lock
-/src/main/webapp/weather-app/.pnp
-/src/main/webapp/weather-app/coverage/
-/src/main/webapp/weather-app/build/
+/src/main/webapp/node_modules/
+/src/main/webapp/yarn.lock
+/src/main/webapp/.pnp
+/src/main/webapp/coverage/
+/src/main/webapp/build/
 .pnp.js
+
+# Built React app
+/src/main/resources/META-INF/resources/asset-manifest.json
+/src/main/resources/META-INF/resources/static/
+/src/main/resources/META-INF/resources/logo192.png
+/src/main/resources/META-INF/resources/favicon.ico
+/src/main/resources/META-INF/resources/index.html
+/src/main/resources/META-INF/resources/logo512.png
+/src/main/resources/META-INF/resources/manifest.json
+/src/main/resources/META-INF/resources/precache-manifest.f1f906a50fcbcb9f37fd1f9cead0d210.js
+/src/main/resources/META-INF/resources/robots.txt
+/src/main/resources/META-INF/resources/service-worker.js
