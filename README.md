@@ -3,9 +3,15 @@
 Simple weather app application built with Quarkus and Kubernetes that uses OpenWeather API
 as a data source and Infinispan for distributed cache.
 
+## Build
+
+| Job               | Status        |
+| ----------------- | ------------- |
+| master build      | [![Build Status](https://travis-ci.org/eipc16/weather-app-kubernetes.svg?branch=master)](https://travis-ci.org/eipc16/weather-app-kubernetes)         |
 
 ## Progress
 ### Steps
+- [X] Travis setup
 - [X] Quarkus setup
 - [ ] React setup
 - [ ] Serve React frontend from Quarkus
