@@ -6,7 +6,7 @@ as a data source and Infinispan for distributed cache.
 
 ## Progress
 ### Steps
-- [ ] Quarkus setup
+- [X] Quarkus setup
 - [ ] React setup
 - [ ] Serve React frontend from Quarkus
 - [ ] Implement API using OpenWeatherAPI
