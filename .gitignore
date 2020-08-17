@@ -54,11 +54,11 @@ yarn-error.log*
 .pnp.js
 
 # Built React app
+/src/main/resources/META-INF/resources/index.html
 /src/main/resources/META-INF/resources/asset-manifest.json
 /src/main/resources/META-INF/resources/static/
 /src/main/resources/META-INF/resources/logo192.png
 /src/main/resources/META-INF/resources/favicon.ico
-/src/main/resources/META-INF/resources/index.html
 /src/main/resources/META-INF/resources/logo512.png
 /src/main/resources/META-INF/resources/manifest.json
 /src/main/resources/META-INF/resources/precache-manifest.f1f906a50fcbcb9f37fd1f9cead0d210.js
