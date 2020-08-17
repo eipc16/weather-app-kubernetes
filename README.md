@@ -7,7 +7,7 @@ as a data source and Infinispan for distributed cache.
 
 | Job               | Status        |
 | ----------------- | ------------- |
-| master build      | [![Build Status](https://travis-ci.org/eipc16/weather-app-kubernetes.svg?branch=master)](https://travis-ci.org/eipc16/weather-app-kubernetes)         |
+| master build      | [![Build Status](https://travis-ci.com/eipc16/weather-app-kubernetes.svg?branch=master)](https://travis-ci.com/github/eipc16/weather-app-kubernetes)         |
 
 ## Progress
 ### Steps
